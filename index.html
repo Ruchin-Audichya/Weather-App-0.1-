@@ -36,5 +36,20 @@
            </div>
         </div>
 
+<script>
+
+const apiKey = "d9bcc47362649d83870a6bbd0946b5c8"
+const apiUrl= "https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=&units=metric";
+async function checkWeather(){
+   const response = await fetch(apiUrl +  '&appid=${apiKey}');
+   var data = await response.json();
+
+   console.log(data);
+}
+
+checkWeather();
+const searchBox = document.querySelector('.search input');
+</script>
+
 </body>
 </html>
