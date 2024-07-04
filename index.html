@@ -38,17 +38,18 @@
 
 <script>
 
-const apiKey = "d9bcc47362649d83870a6bbd0946b5c8"
-const apiUrl= "https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=&units=metric";
+const apiKey = "d9bcc47362649d83870a6bbd0946b5c8";
+const apiUrl= "https://api.openweathermap.org/data/2.5/weather?units=metric&q=bangalore";
+
 async function checkWeather(){
-   const response = await fetch(apiUrl +  '&appid=${apiKey}');
+   const response = await fetch(apiUrl + `&appid=${apiKey}`);
    var data = await response.json();
 
    console.log(data);
    document.querySelector(".city").innerHTML=data.name;
-   document.querySelector(".temp").innerHTML=data.main.temp;
-   document.querySelector(".humidity").innerHTML=data.main.humidity;
-   document.querySelector(".wind").innerHTML=data.main.speed;
+   document.querySelector(".temp").innerHTML=Math.round(data.main.temp) + "°c" ;
+   document.querySelector(".humidity").innerHTML= data.main.humidity + "%" ;
+   document.querySelector(".wind").innerHTML= data.main.speed +  " km/h";
 }
 
 checkWeather();
