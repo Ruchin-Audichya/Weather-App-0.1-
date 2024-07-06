@@ -50,6 +50,6 @@ Github
 </p>
 
 <p align="center">
-    Made with ❤️ by [PeepKIN] and [Jojo.brown]
+    Made with ❤️ by [PeepKIN] and [Jojo.Brown]
 </p>
 
