@@ -39,9 +39,9 @@ This project was inspired by [Greatstack's]([https://www.youtube.com/c/Greatstac
 Special thanks to:
 - [CLICK HERE TO KNOW](https://prnt.sc/QazZ2z5OiMNQ)
 
-## Contact
+---
 For any inquiries or feedback, please reach out:
-Github
+ON GITHUB
 ---
 
 <p align="center">
