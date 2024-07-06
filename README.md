@@ -50,6 +50,6 @@ Github
 </p>
 
 <p align="center">
-    Made with ❤️ by [Ruchin] and [Shriya]
+    Made with ❤️ by Ruchin and Shriya
 </p>
 
