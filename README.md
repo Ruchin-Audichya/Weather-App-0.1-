@@ -16,7 +16,7 @@ Welcome to our Weather App! This project was created as a collaborative effort b
 - **JavaScript**: For fetching data and dynamic content updates.
 
 ## Screenshots
-![Weather App Screenshot](path/to/screenshot.png)
+![Weather App Screenshot](screenshot.png)
 
 ## Setup & Installation
 1. Clone the repository:
