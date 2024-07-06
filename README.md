@@ -37,8 +37,7 @@ Welcome to our Weather App! This project was created as a collaborative effort b
 This project was inspired by [Greatstack's]([https://www.youtube.com/c/Greatstack]) video tutorial on creating a weather app. 
 
 Special thanks to:
-- [PeepKIN](https://github.com/Ruchin-Audichya)
-- [Jojo.brown](https://github.com/shriya-gakkhar1/)
+- [CLICK HERE TO KNOW](https://prnt.sc/QazZ2z5OiMNQ)
 
 ## Contact
 For any inquiries or feedback, please reach out:
