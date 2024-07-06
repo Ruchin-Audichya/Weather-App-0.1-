@@ -1,7 +1,7 @@
 
 # Weather App 🌦️
 
-Welcome to our Weather App! This project was created as a collaborative effort between [Ruchin] and [Shriya], inspired by the Greatstack video tutorial. Our app provides real-time weather updates using HTML, CSS, and JavaScript.
+Welcome to our Weather App! This project was created as a collaborative effort between [Ruchin Audichya](https://github.com/Ruchin-Audichya) and [Shriya Gakkhar](https://github.com/shriya-gakkhar1), inspired by the Greatstack video tutorial. Our app provides real-time weather updates using HTML, CSS, and JavaScript.
 
 
 ## Features
