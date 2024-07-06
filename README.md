@@ -50,6 +50,6 @@ Github
 </p>
 
 <p align="center">
-    Made with ❤️ by [PeepKIN](https://github.com/Ruchin-Audichya) and [Jojo.Brown](https://github.com/shriya-gakkhar1/)
+    Made with ❤️ by [PeepKIN](https://github.com/Ruchin-Audichya) and [Jojo.brown](https://github.com/shriya-gakkhar1/)
 </p>
 
